@@ -1,0 +1,15 @@
+index:
+4,5
+HB
+elbow:
+1,5
+HB
+pinky:
+1,4
+wristout:
+1,2,5
+HB
+ring:
+7
+middle:
+1,2,4,7

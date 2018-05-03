@@ -1,0 +1,13 @@
+
+Event Name		Event Key
+------------------------------------------
+Natural			n
+Elbow Flex		e
+Wrist Out		w
+Thumb			t
+Index Finger		i
+Middle Finger		m
+Ring Finger		r
+Pinky			p
+
+	
